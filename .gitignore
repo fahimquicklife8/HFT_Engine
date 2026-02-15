@@ -1,0 +1,20 @@
+# CLion / JetBrains
+.idea/
+*.iml
+
+# CMake build dirs
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+rules.ninja
+.ninja_deps
+.ninja_log
+
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+
