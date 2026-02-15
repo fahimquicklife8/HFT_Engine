@@ -1,3 +1,0 @@
-C:/Quant101/HFT_Engine/cmake-build-debug/CMakeFiles/HFT_Engine.dir
-C:/Quant101/HFT_Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Quant101/HFT_Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
