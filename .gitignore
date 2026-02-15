@@ -1,20 +1,35 @@
-# CLion / JetBrains
+# JetBrains / CLion
 .idea/
 *.iml
 
-# CMake build dirs
+# Build directories (CLion default)
 cmake-build-*/
+out/
+
+# CMake generated files (in case you build in-source)
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+compile_commands.json
 build.ninja
 rules.ninja
 .ninja_deps
 .ninja_log
 
-# Binaries
+# CMake File API (often created under build dirs)
+.cmake/
+
+# Binaries and objects
 *.exe
-*.out
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
 *.o
 *.obj
 
+# Logs
+*.log
