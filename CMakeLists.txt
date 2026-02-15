@@ -8,4 +8,6 @@ add_executable(HFT_Engine main.cpp
         order_book/matching_engine.cpp
         order_book/types.h
         execution_engine/execution_manager.cpp
-        execution_engine/latency_profiler.cpp)
+        execution_engine/latency_profiler.cpp
+        market_data/marketdata.h
+        market_data/marketdata.cpp)
